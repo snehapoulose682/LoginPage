@@ -1,0 +1,121 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+    font-family: tahoma,verdana,arial,sans-serif;
+    background-color: #D3D8E8
+}
+div {
+    width: 300px;
+   padding: 150px;
+   margin: 20px;
+   font-size: 25px;
+}
+.fb-body{
+	position:absolute;
+	left:0px;
+	top:90px;
+	width:100%;
+    padding:150px;
+	height:645px;
+}
+#intro2{
+	left:850px;
+	top:20px;
+	font-family:verdana;
+	font-size:30px;
+	color:blue;
+	font-weight:bold;
+	height:75px;
+	width:500px;
+    padding:150px ;
+}
+#form1{
+    position: absolute;
+	top:-50px;
+	left:600px;
+	right: 600px;
+	font-family:verdana;
+	font-size:20px;
+	color:#142170;
+	width:200px;
+	height:170px;
+    background-color: white;
+	
+}
+
+#p1{
+	width:300px;
+	height:40px;
+	margin-top:4px;
+	left: 250px;
+	top:625px;
+	right: 250px;
+	padding: 10px;
+	font-size:18px;
+	border-width: 1px;
+	color: blue;
+	
+}
+#mailbox{
+	width:300px;
+	height:40px;
+	top:1px;
+	left: 10px;
+	margin-right: 750px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding: 10px;
+	font-size:18px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: lavender;
+}
+#password{
+	width:300px;
+	height:40px;
+    left: 10px;
+	margin-right:750px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:1px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: lavender;
+}
+#btn1{
+	width:250px;
+	height:40px;
+	left:750px;
+	top:625px;
+	background:blue;
+	font-family:verdana;
+	font-size:18px;
+	color:white;
+	border-radius:5px 5px 5px 5px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	cursor:pointer;
+	outline:none;
+	
+}
+#btn2{
+	width:250px;
+	height:40px;
+	left:750px;
+	margin-top:-10px;
+	background:green;
+	font-family:verdana;
+	font-size:18px;
+	color:white;
+	border-radius:5px 5px 5px 5px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	cursor:pointer;
+	outline:none;
+	
+}
